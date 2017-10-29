@@ -1,0 +1,31 @@
+GRADE REPORT for repo fa17-hw4-Itsmrstealyogirl
+
+Total points earned: 0
+
+Detailed test results:
+tester_alphabet_finder/_given: [!!] contact course staff
+tester_alphabet_finder/long: [!!] contact course staff
+tester_alphabet_finder/more: [!!] contact course staff
+tester_anagram_of_palindrome/_given: [!!] contact course staff
+tester_anagram_of_palindrome/long: [!!] contact course staff
+tester_anagram_of_palindrome/more: [!!] contact course staff
+tester_anagram_of_palindrome/vacuous: [!!] contact course staff
+tester_count_anagrams/_given: [!!] contact course staff
+tester_count_anagrams/long_elements: [!!] contact course staff
+tester_count_anagrams/long_uniq: [!!] contact course staff
+tester_count_anagrams/more: [!!] contact course staff
+tester_count_anagrams/vacuous: [!!] contact course staff
+tester_happy_number/_given: [!!] contact course staff
+tester_happy_number/iftrs: [!!] contact course staff
+tester_happy_number/incluse: [!!] contact course staff
+tester_happy_number/more_1: [!!] contact course staff
+tester_happy_number/more_large: [!!] contact course staff
+tester_is_unique/_given: [!!] contact course staff
+tester_is_unique/longer: [!!] contact course staff
+tester_is_unique/more: [!!] contact course staff
+tester_is_unique/vacuous: [!!] contact course staff
+tester_reverse_dictionary/_given: [!!] contact course staff
+tester_reverse_dictionary/long: [!!] contact course staff
+tester_reverse_dictionary/more: [!!] contact course staff
+tester_reverse_dictionary/nested_objects: [!!] contact course staff
+tester_reverse_dictionary/self_loop: [!!] contact course staff
